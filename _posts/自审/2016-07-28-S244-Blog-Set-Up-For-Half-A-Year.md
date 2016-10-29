@@ -11,6 +11,7 @@ categories: [自审]
 * 2015年12月，于当月5日写下第一篇博文《[播种](http://3un4.com/2015/12/05/S011-Seed.html)》，同月将自己的多篇旧作优化上传。
 * 2016年6月，为博客文章增加序列号，学习使用[HTML <table> 标签](http://www.w3school.com.cn/tags/tag_table.asp)，[在线测试代码](http://www.w3school.com.cn/tiy/t.asp?f=html_table_test)。
 * 2016年7月，更换博客模板，增加“[复制自动显示版权信息](http://wangbaiyuan.cn/javascript-implementation-article-copy-plus-copyright-information.html)”的功能，将“[评论系统更换为多说](https://github.com/FlyAcross/FlyAcross.github.io/commit/3cd05da0eb351952666722239e2473377cabfac4)”,[实现在文章页显示分类](https://github.com/FlyAcross/FlyAcross.github.io/commit/e67a97f7959eba1fc6c46dd90f65303810d6c984)。
+* 2016年10月22日，因为自己不断通过删除仓库来调整界面，首个 git 账号受到系统限制，于是注册第二个账号来建立博客；这次调整的教训还有，编辑代码需要专门的编辑器
 
 ## 建设教程
 
@@ -26,7 +27,7 @@ categories: [自审]
 
   * [博客修改说明](https://github.com/li2/li2.github.io/commit/e3d3aed75ba3a4c1a91105ea56f2e3e76b457515)	——[刘亮程](http://li2.me/)
   * [复制自动显示版权信息](http://wangbaiyuan.cn/javascript-implementation-article-copy-plus-copyright-information.html) 将代码添加至_layouts/base.html
-  * 暂时未能解决的问题，默认弹出的分类栏在小窗模式或是移动端会挡住正文
+  * 暂时未能解决的问题，默认弹出的分类栏在小窗模式或是移动端会挡住正文 √
 
 ## 博文相关
 
