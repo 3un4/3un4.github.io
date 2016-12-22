@@ -12,7 +12,7 @@ tags: [成长]
 <div class="col-md-12">
           <div class="panel panel-primary">
             <div class="panel-heading">
-             <a href="豆瓣链接" title="豆瓣链接 ">哦，初三，原来是你</a>
+             <a href="https://book.douban.com/subject/26836244/" title="豆瓣链接 ">哦，初三，原来是你</a>
             </div>
             <div class="panel-body">
               <div class="row">
