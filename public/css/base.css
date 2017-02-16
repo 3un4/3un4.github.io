@@ -1,4 +1,4 @@
-/* é¡µé¢é…ç½® */
+/* Ò³ÃæÅäÖÃ */
 .container {
   width: 100%;
   height: 100%;
@@ -12,11 +12,11 @@ body, html {
 .row {
   height: 100%;
 }
-/* å¯¼èˆªæ  + ç›®å½•æ  */
+/* µ¼º½À¸ + Ä¿Â¼À¸ */
 .aside {
   height: 100%;
 }
-/* å·¦ä¾§å¯¼èˆªæ  */
+/* ×ó²àµ¼º½À¸ */
 .aside1 {
   /*background-color: #1f2c39;*/
   background-color: #1abc9c;
@@ -64,17 +64,17 @@ body, html {
 .aside1_bottom > .table {
   margin-bottom: 0px;
 }
-/* ä¸­éƒ¨ç›®å½•æ  */
+/* ÖĞ²¿Ä¿Â¼À¸ */
 .aside2 {
   /*background-color: #fafaf6;*/
   /*background-image: url(/public/img/body_bg.jpg);*/
   background-color: #303030;
-  height: 95%; /* fix bug: aside2 å†…å®¹è¿‡å¤šæ—¶ï¼Œæœ€ä¸‹é¢çš„çœ‹ä¸åˆ° */
+  height: 95%; /* fix bug: aside2 ÄÚÈİ¹ı¶àÊ±£¬×îÏÂÃæµÄ¿´²»µ½ */
   border-right: 2px solid #303030;
   overflow-y: auto;
   font-color: #fff;
   margin-top: 32px;
-    -webkit-overflow-scrolling: touch; } /* improve: ä¿®æ”¹aside2 progress æ ·å¼ */
+    -webkit-overflow-scrolling: touch; } /* improve: ĞŞ¸Äaside2 progress ÑùÊ½ */
   .aside2::-webkit-scrollbar {
     width: 1px; }
   .aside2::-webkit-scrollbar-thumb {
@@ -88,7 +88,7 @@ body, html {
 }
 
 
-/* å³ä¾§å†…å®¹æ  */
+/* ÓÒ²àÄÚÈİÀ¸ */
 .aside3 {
   height: 100%;
   overflow-y: auto;
@@ -120,16 +120,56 @@ body, html {
   color: #656565;
   line-height: 1.6;
 }
-#content {
-  font-size: 14px;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: bold;
 }
-#content h2, h3 {
-  line-height: 2;
+h1 {
+	font-size: 1.875em;
+	/*30 / 16*/
+	line-height: 1.6em;
+	/* 48 / 30*/
+	margin-top: 2em;
+}
+h2,
+h3 {
+	font-size: 1.3125em;
+	/*21 / 16*/
+	line-height: 1.15;
+	/*24 / 21*/
+	margin-top: 2.285714em;
+	/*48 / 21*/
+	margin-bottom: 1.15em;
+	/*24 / 21*/
+}
+h3 {
+            font-style: italic;
+            font-weight: normal;
+}
+h4 {
+	font-size: 1.125em;
+	/*18 / 16*/
+	margin-top: 2.67em;
+	/*48 / 18*/
+}
+h5,
+h6 {
+	font-size: 1em;
+	/*16*/
+}
+h1{
+	border-bottom: 1px solid;
+	margin-bottom: 1.875em;
+	padding-bottom: 0.8125em;
 }
 blockquote p {
   font-size: 14px;
 }
-/* å…¶ä»–é…ç½® */
+/* ÆäËûÅäÖÃ */
 
 }
 table tr {
@@ -162,7 +202,7 @@ table tr td {
   color: #fff;
   background-color: #303030;
 }
-/* æ˜¾ç¤ºè¯„è®ºæŒ‰é’® */
+/* ÏÔÊ¾ÆÀÂÛ°´Å¥ */
 .show-commend {
   width: 100%;
   margin-bottom: 40px;

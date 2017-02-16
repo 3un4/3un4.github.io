@@ -36,7 +36,7 @@ categories: [遇见思考]
 
 * [手机贴膜的商机](http://3un4.com/encounters%20and%20reflections/2016/06/19/ER186-Film/)
 
-# 迭代
+**迭代**
 
 * 2016年06年19日 三稿
 * 2016年04月02日 二稿
