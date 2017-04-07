@@ -40,7 +40,7 @@ html {
 }
 
 body {
-    font-family: "宋体", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", SimSun, Heiti, "黑体", sans-serif;
+    font-family: Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "宋体", SimSun, Heiti, "黑体", sans-serif;
     color: rgb(51, 51, 51);
     line-height: 1.6;
 }
