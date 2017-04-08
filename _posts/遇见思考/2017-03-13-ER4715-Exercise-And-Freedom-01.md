@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 运动与自由（一）：你也曾被组织运动?
-date: 2016-03-13
+date: 2017-03-13
 categories: [遇见思考]
 ---
 
