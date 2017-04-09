@@ -35,9 +35,10 @@ layout: base
                         <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
                     </li>
                     {% endif %}
-                </ul>
-
+                </ul>			
+				
     {% include duoshuo.html %}
+	{% include creativecommons.html %}
   </div>
   <!-- 目录 -->
   <div id="content_table" style="position:fixed;right:20px;top:120px;display:none;">
