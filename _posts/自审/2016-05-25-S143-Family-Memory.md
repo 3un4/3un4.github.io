@@ -3,6 +3,7 @@ layout: post
 title: 家人·记
 date: 2016-05-25
 categories: [自审]
+tags: 人际
 ---
 
 ## 背影
@@ -38,7 +39,7 @@ categories: [自审]
 
 
 
-**迭代**
+#### 1687 Words，6 Minutes
 
 * 2016年05月25日 成稿
 * 2016年05月01日 自我的时间线

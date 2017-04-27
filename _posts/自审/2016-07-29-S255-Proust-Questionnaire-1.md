@@ -3,6 +3,7 @@ layout: post
 title: 普鲁斯特问卷 I
 date: 2016-07-29
 categories: [自审]
+tags: 盘点
 ---
 
 > 普鲁斯特问卷简介： 著名的Proust Questionnaire（普鲁斯特问卷）由一系列问题组成，问题包括被提问者的生活、思想、价值观及人生经验等。因著作《追忆逝水年华》而闻名的Marcel Proust并不是这份问卷的发明者，但这份问卷因为他特别的答案而出名，并在当年时髦的巴黎人沙龙中颇为流行。因此后人将这份问卷命名为「Proust Questionnaire」。

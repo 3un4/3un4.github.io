@@ -1,8 +1,9 @@
---- 
-Layout: post 
+---
+layout: post
 title: 抵制韩货，OK？
 date: 2017-03-11 
-categories: [遇见思考] 
+categories: [遇见思考]
+tags: 商业 社会
 ---
 
 ## 背景介绍
@@ -25,3 +26,4 @@ categories: [遇见思考]
 
 练好内功，远比高喊口号，更具有实际意义。
 
+#### 1245 Words,  5 Minutes

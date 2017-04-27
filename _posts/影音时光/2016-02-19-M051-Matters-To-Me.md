@@ -3,11 +3,9 @@ layout: post
 title: Matters to me
 date: 2016-02-17
 categories: [影音时光]
- 
+tags: 音乐
 ---
 ## 写在新専到来之前
-
-<embed src="http://music.163.com/style/swf/widget.swf?sid=16993020&type=2&auto=0&width=320&height=66" width="340" height="86"  allowNetworking="all">
 
 6岁对于多数人都还是一个思想混沌的年龄，康妮却已发现了自我，《Over the rainbow》这首歌里跨越年龄的感染力正是因为康妮唱出了真我。当时的她，不仅在乐符中写满了”小小的我”，也用一曲《I will always love you》表达了对奶奶的一片深情。此时的小康妮还是一个正在换牙的女孩，她所习得的歌曲也很少，但是她的纯真与热爱赋予了她所唱歌曲以别样的魅力。我以为在童声的维度，人们很容易被歌声带回自己的幼年时期，那是梦想的起点，所以人们沉醉于声音带给自己的感动中，给予的是呵护与支持。
 
@@ -39,7 +37,7 @@ categories: [影音时光]
 
 
 
-**迭代**
+#### 2212 Words,  8 Minutes
 
 * 2016年04月16日 四稿
 * 2016年04月04日 三稿

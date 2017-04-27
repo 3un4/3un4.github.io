@@ -3,7 +3,7 @@ layout: book
 title: 2016年暑期书目
 date: 2016-06-20
 categories: [阅读]
-tags: [书单]
+tags: [盘点]
 books: 
     - title: 岛上书店
       status: 未读

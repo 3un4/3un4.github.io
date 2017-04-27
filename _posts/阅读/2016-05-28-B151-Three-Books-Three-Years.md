@@ -3,8 +3,7 @@ layout: post
 title: 三年，三本书——成长的记录
 date: 2016-05-28
 categories: [阅读]
-tags: [成长]
-
+tags: 小说 成长
 ---
 
 <html>
@@ -61,7 +60,7 @@ tags: [成长]
 
 
 
-**迭代**
+#### 1027 Words,  4 Minutes
 
 * 2016年05月29日 二稿
 * 2016年05月28日 初稿
